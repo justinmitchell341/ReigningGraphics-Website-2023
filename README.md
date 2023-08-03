@@ -1,2 +1,1 @@
-# My-Boilerplate
-code boilerplate
+N/A
